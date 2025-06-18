@@ -1,16 +1,29 @@
-# audio_player
+🎧 Flutter Audio Player App
+A sleek and functional audio player app built using Flutter and Provider for state management. It features playlist support, volume control, and seamless background audio playback.
 
-A new Flutter project.
+✅ Features
+▶️ Play/Pause Audio
 
-## Getting Started
+🎶 Playlist Support (Next/Previous)
 
-This project is a starting point for a Flutter application.
+📊 Seek Bar with Position & Duration
 
-A few resources to get you started if this is your first Flutter project:
+🔊 Volume Control
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔁 Background Audio Playback with notification controls
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+Flutter
+
+Provider for State Management
+
+just_audio for audio playback
+
+just_audio_background for background notifications
+
+📱 Platforms Supported
+✅ Android
+
+✅ iOS![Screenshot 2025-06-18 111355](https://github.com/user-attachments/assets/948b23ae-705e-48bf-acdc-51c83cdd968c)
+![2](https://github.com/user-attachments/assets/e593f836-18d5-4e73-b46d-b10d2cf2466e)
+![1](https://github.com/user-attachments/assets/c8eb482a-f05a-4633-ad43-2eb5f333f5b1)
